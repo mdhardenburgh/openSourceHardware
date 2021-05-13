@@ -1,6 +1,8 @@
 # Open Source Hardware Projects
 Open source hardware. The projects listed below have gerbers of which PCBs 
-can be ordered. I prefer OSHPark, but use the fab you prefer.
+can be ordered. The schematics and PCB layouts are created using KiCAD. They can
+be read using the KiCAD programs. I prefer OSHPark as my PCB vendor, but use the 
+fab you prefer.
 
 * 8-pin 7.5mm X 5.85mm SOIC breadboard adapter. 
 
